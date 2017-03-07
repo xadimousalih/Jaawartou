@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:29
+-keep class com.tab28.jaawartou.JaawartouActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.tab28.jaawartou.PlayerService { <init>(...); }
+
+# view res/layout/activity_mon.xml #generated:18
+-keep class com.tab28.jaawartou.ScrollTextView { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class com.tab28.jaawartou.SpalshScreenActivity { <init>(...); }
+

@@ -1,0 +1,173 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+com.tab28.jaawartou.JaawartouActivity
+com.tab28.jaawartou.JaawartouActivity: JaawartouActivity()
+com.tab28.jaawartou.JaawartouActivity: void onClick(android.view.View)
+com.tab28.jaawartou.PlayerService
+com.tab28.jaawartou.PlayerService: PlayerService()
+com.tab28.jaawartou.R$anim: int alpha
+com.tab28.jaawartou.R$anim: int push_down_in
+com.tab28.jaawartou.R$anim: int push_down_out
+com.tab28.jaawartou.R$anim: int translate
+com.tab28.jaawartou.R$array: int Jaawartou_Ar
+com.tab28.jaawartou.R$array: int Jaawartou_Fr
+com.tab28.jaawartou.R$array: int Jaawartou_Tr
+com.tab28.jaawartou.R$color: int black
+com.tab28.jaawartou.R$color: int foreground1
+com.tab28.jaawartou.R$color: int white
+com.tab28.jaawartou.R$dimen: int activity_horizontal_margin
+com.tab28.jaawartou.R$dimen: int activity_vertical_margin
+com.tab28.jaawartou.R$dimen: int text_size_medium
+com.tab28.jaawartou.R$drawable: int arrow_left
+com.tab28.jaawartou.R$drawable: int bg
+com.tab28.jaawartou.R$drawable: int btn_playlist
+com.tab28.jaawartou.R$drawable: int btn_repeat
+com.tab28.jaawartou.R$drawable: int btn_repeat_focused
+com.tab28.jaawartou.R$drawable: int btn_shuffle
+com.tab28.jaawartou.R$drawable: int btn_shuffle_focused
+com.tab28.jaawartou.R$drawable: int exit
+com.tab28.jaawartou.R$drawable: int ic_action_about
+com.tab28.jaawartou.R$drawable: int ic_action_search
+com.tab28.jaawartou.R$drawable: int ic_action_settings
+com.tab28.jaawartou.R$drawable: int ic_launcher
+com.tab28.jaawartou.R$drawable: int ic_media_ff
+com.tab28.jaawartou.R$drawable: int ic_media_next
+com.tab28.jaawartou.R$drawable: int ic_media_pause
+com.tab28.jaawartou.R$drawable: int ic_media_play
+com.tab28.jaawartou.R$drawable: int ic_media_previous
+com.tab28.jaawartou.R$drawable: int ic_media_rew
+com.tab28.jaawartou.R$drawable: int img_btn_playlist
+com.tab28.jaawartou.R$drawable: int img_btn_playlist_pressed
+com.tab28.jaawartou.R$drawable: int img_btn_repeat
+com.tab28.jaawartou.R$drawable: int img_btn_repeat_pressed
+com.tab28.jaawartou.R$drawable: int img_btn_shuffle
+com.tab28.jaawartou.R$drawable: int img_btn_shuffle_pressed
+com.tab28.jaawartou.R$drawable: int jaawartou
+com.tab28.jaawartou.R$drawable: int notification
+com.tab28.jaawartou.R$drawable: int panel_shape
+com.tab28.jaawartou.R$drawable: int player_app_icon
+com.tab28.jaawartou.R$drawable: int serignsaliou
+com.tab28.jaawartou.R$drawable: int sindidi
+com.tab28.jaawartou.R$drawable: int tab28
+com.tab28.jaawartou.R$id: int action_settings
+com.tab28.jaawartou.R$id: int app_exit
+com.tab28.jaawartou.R$id: int arab
+com.tab28.jaawartou.R$id: int back_btn
+com.tab28.jaawartou.R$id: int btnRepeat
+com.tab28.jaawartou.R$id: int btnShuffle
+com.tab28.jaawartou.R$id: int btn_backward_imagview
+com.tab28.jaawartou.R$id: int btn_forward_imageview
+com.tab28.jaawartou.R$id: int btn_next_imageview
+com.tab28.jaawartou.R$id: int btn_play_imageview
+com.tab28.jaawartou.R$id: int btn_previous_imageview
+com.tab28.jaawartou.R$id: int current_time_txt
+com.tab28.jaawartou.R$id: int footer
+com.tab28.jaawartou.R$id: int fran
+com.tab28.jaawartou.R$id: int header
+com.tab28.jaawartou.R$id: int info_text
+com.tab28.jaawartou.R$id: int legal_text
+com.tab28.jaawartou.R$id: int lin_lay
+com.tab28.jaawartou.R$id: int list
+com.tab28.jaawartou.R$id: int list_song_layout
+com.tab28.jaawartou.R$id: int listsong_btn
+com.tab28.jaawartou.R$id: int listsong_listview
+com.tab28.jaawartou.R$id: int listsong_screen
+com.tab28.jaawartou.R$id: int logo
+com.tab28.jaawartou.R$id: int menu_about
+com.tab28.jaawartou.R$id: int playerScreen
+com.tab28.jaawartou.R$id: int playsindidi_btn
+com.tab28.jaawartou.R$id: int scrolltext
+com.tab28.jaawartou.R$id: int songTitle
+com.tab28.jaawartou.R$id: int song_playing_progressbar
+com.tab28.jaawartou.R$id: int song_title_txt
+com.tab28.jaawartou.R$id: int total_time_txt
+com.tab28.jaawartou.R$id: int tran
+com.tab28.jaawartou.R$layout: int about
+com.tab28.jaawartou.R$layout: int activity_mon
+com.tab28.jaawartou.R$layout: int list_item
+com.tab28.jaawartou.R$layout: int list_songs_screen
+com.tab28.jaawartou.R$layout: int listsong_item
+com.tab28.jaawartou.R$layout: int player
+com.tab28.jaawartou.R$layout: int splash
+com.tab28.jaawartou.R$menu: int menu
+com.tab28.jaawartou.R$menu: int mon
+com.tab28.jaawartou.R$raw: int info
+com.tab28.jaawartou.R$raw: int jaawartou
+com.tab28.jaawartou.R$raw: int legal
+com.tab28.jaawartou.R$string: int action_settings
+com.tab28.jaawartou.R$string: int app_about
+com.tab28.jaawartou.R$string: int app_exit_message
+com.tab28.jaawartou.R$string: int app_name
+com.tab28.jaawartou.R$string: int back
+com.tab28.jaawartou.R$string: int bienvenu
+com.tab28.jaawartou.R$string: int desc_logo
+com.tab28.jaawartou.R$string: int dieredieuf
+com.tab28.jaawartou.R$string: int hello_world
+com.tab28.jaawartou.R$string: int obj1
+com.tab28.jaawartou.R$string: int obj2
+com.tab28.jaawartou.R$string: int play
+com.tab28.jaawartou.R$string: int songtitle
+com.tab28.jaawartou.R$string: int str_exit
+com.tab28.jaawartou.R$string: int str_no
+com.tab28.jaawartou.R$string: int str_ok
+com.tab28.jaawartou.R$string: int str_yes
+com.tab28.jaawartou.R$string: int timestart
+com.tab28.jaawartou.R$string: int title_activity_main
+com.tab28.jaawartou.R$string: int title_activity_mon
+com.tab28.jaawartou.R$style: int AppTheme
+com.tab28.jaawartou.R$style: int FooterBar
+com.tab28.jaawartou.R$style: int HomeButton
+com.tab28.jaawartou.R$style: int heading_text
+com.tab28.jaawartou.ScrollTextView
+com.tab28.jaawartou.ScrollTextView: ScrollTextView(android.content.Context)
+com.tab28.jaawartou.ScrollTextView: ScrollTextView(android.content.Context,android.util.AttributeSet)
+com.tab28.jaawartou.ScrollTextView: ScrollTextView(android.content.Context,android.util.AttributeSet,int)
+com.tab28.jaawartou.ScrollTextView: int getRndDuration()
+com.tab28.jaawartou.ScrollTextView: void setRndDuration(int)
+com.tab28.jaawartou.SpalshScreenActivity
+com.tab28.jaawartou.SpalshScreenActivity: SpalshScreenActivity()

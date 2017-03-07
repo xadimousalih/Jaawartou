@@ -1,0 +1,130 @@
+<resources>
+
+    <string name="title_activity_mon">Jaawartou</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="timestart">0:00</string>
+    <string name="app_name">Jaawartou</string>
+    <string name="title_activity_main">Xamé Thie Serigne Touba</string>
+    <string name="songtitle">Xacida Jaawartou</string>
+    <string name="str_ok">Oui</string>
+    <string name="str_yes">Oui</string>
+    <string name="app_about">A propos de Jaawartou</string>
+    <string name="str_exit">Fermer</string>
+    <string name="app_exit_message">Voulez vous fermer cette application?</string>
+    <string name="str_no">Non</string>
+    <string name="obj1">NOTRE OBJECTIF: Oeuvrer pour Cheikh Ahmadou Bamba Khadimou Rassoul.</string>
+    <string name="obj2">Nous supplions toute personne utilisant cette application mobile de prier pour SERIGNE SALIOU MBACKE.</string>
+    <string name="bienvenu">BIENVENU!</string>
+    <string name="dieredieuf">DIEUREDIEUF!</string>
+    <string name="desc_logo">TAB28</string>
+    <string name="back">Retour</string>
+    <string name="play">Jouer</string>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <string-array name="Jaawartou_Ar">
+        <item>بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ فَارَقْتُ إِبْلِيسَ وَجَمِيعَ الْمَفَاسِدِ وَبِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ لاَزَمْتُ رَسُولَ اللهِ صَلَّى اللهُ تَعَالَى عَلَيْهِ وَسَلَّمَ وَجَمِيعَ الْمَصَالِحِ وَلاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللهِ الْعَلِيِّ الْعَظِيمِ</item>
+        <item>جَاوَرْتُ اللهَ بِكِتَابِهِ إِلَى دُخُولِيَ جَنَّتَهُ</item>
+        <item>جَاوَرْتُ بِالْفُرْقَانِ رَبِّيَ الْمُعِينْ      مَلَكْتُ نَفْسِيَ وَزَحْزَحْتُ اللَّعِينَ</item>
+        <item>أَخَذْتُ مِنْ دُنْيَاهُ زَادِي لِلْجِنَانْ      وَانْقَادَ لِي الْهَوَى وَلِيَ صَفَا الْجَنَان</item>
+        <item>وَالاَنِيَ اْلاَبْرَارُ فِي أُخْرَايَا      وَانْقَادَ لِي بِلاَ انْتِهًا قِرَايَا</item>
+        <item>رَافَقَنِي إِلَى الْجِنَانِ جِيمُ      وَلِسِوَايَ زُحْزِحَ الرَّجِيمُ</item>
+        <item>تُرْسِي عَنِ اللَّعِينِ وَالْفُجَّارِ      كَوْنُ بَدِيعِ الْعَالَمِينَ جَارِي</item>
+        <item>أَكْرَمَنِي الْبَدِيعُ بِالْكِتَابِ      وَصَانَنِي عَنْ جَالِبِ الْعِتَابِ</item>
+        <item>لَمْ يَنْحُنِي إِلَى دُخُولِي الْجَنَهْ      غَيْرُ بُشَارَاتِ العَلِي ذِي الْمِنَهْ</item>
+        <item>لَمْ يَنْحُنِي زَجْرٌ وَلاَ وَعِيدُ      وَعُمُرِي إِلَى الْجِنَانِ عِيدُ</item>
+        <item>أَخْفَى لِيَ السِّرَ الْمَصُونَ اللهُ      حُبًّا وَلاَ إِلَهَ إِلاَّ اللهُ</item>
+        <item>هَدَانِيَ اللهُ وَإِنَّهُ الْبَدِيعْ      وَقَادَنِي لَهُ بِأَنْوَاعِ الْبَدِيعْ</item>
+        <item>بَرَّأَنِي الْخَالِقُ مِنْ سِوَاهُ      وَقَادَنِي مَنْ لاَ يُرَى شَرْوَاهُ</item>
+        <item>كِتَابُ رَبِّي كَانَ لِي وَكُنْتُ      لَهُ وَللهِ بِهِ سَكَنْتُ</item>
+        <item>تُرْسِي عَنِ اْلأَكْدَارِ وَالْمَفَاسِدِ      سَلاَمَتِي مِنْ جَالِبٍ لِفَاسِدِ</item>
+        <item>أَكْرَمَنِي اللهُ بِذِكْرِهِ وَمَا      لِي اخْتَارَهُ وَلِيَ قَادَ اْلأَقْوَمَا</item>
+        <item>بَاهَى بِيَ اللهُ الْكِرَامَ الْغُرَّا      وَبِبَقَائِيَ النَّبِيَّ سَرَّا</item>
+        <item>هِبَاتُ ذِي الْجَلاَلِ وَاْلإِكْرَامِ      لِي خَلَّدَتْ مُرَغِّبَ الْكِرَامِ</item>
+        <item>إِلَيَّ قَادَ اللهُ مَا لَمْ يَكُنِ      وَلاَ يَكُونُ أَبَدًا لِلْمُمْكِنِ</item>
+        <item>لَسْتُ أَشُكُّ أَبَدًا فِي كَوْنِي      جَارَ الْبَدِيعِ عَجَبًا لِلْكَوْنِ</item>
+        <item>إِنَّ الَّذِي مِنَ اْلإِلَهِ حُزْتُ      غَابَ عَنِ الْكَوْنِ وَفِيهِ فُزْتُ</item>
+        <item>دَلَّنِيَ اللهُ عَلَى اللهِ بِلاَ      تَغَرُّرٍ وَعُمُرِي تَقَبَّلاَ</item>
+        <item>خَابَتْ قُلاَتِيَ مَعَ الْحُسَّادِ      مُذْ ثَمَنِي حُزْتُ بِلاَ كَسَاد</item>
+        <item>وَقَانِيَ الْبَاقِي بِهِ ثَبُورَا      تِجَارَتِي لَدَيْهِ لَنْ تَبُورَا</item>
+        <item>لَمْ يَنْحُنِي مَا بَاعَ عَنِّي اللهُ      فَضْلاً وَلاَ إِلَهَ إِلاَّ اللهُ</item>
+        <item>يَقُودُ لِي بِلاَ انْتِهَاءٍ ثَمَنِي      مَنْ كَانَ لِي وَلِيَ صَفَّى زَمَنِي</item>
+        <item>جَاوَرْتُ رَبِّي بِلِسَانِ الْعَرَبِ      بِلاَ نِهَايَةٍ وَتَابَتْ قُرَبِ</item>
+        <item>نَزَعَ لِي اْلإِسْلاَمَ عِنْدَ غُرْبَتِي      لَدَى الْجَزَائِرِ مُنِيرُ تُرْبَتِي</item>
+        <item>نُزِعَ لِي نُورُ اللِّسَانِ وَالْكِتَابْ      أَزْمَانَ خِدْمَتِي لَدَى أَهْلِ الْكِتَابْ</item>
+        <item>تَذْيِيلُ مَا ثَبَتَ لِلْمُشَفَّعِ      أَغْنَى يَمِينِي عَنْ أَذًى وَمِدْفَعِ</item>
+        <item>هَدَانِيَ اللهُ وَزَحْزَحَ اللَّعِينْ      إِلَى سِوَى عُمْرِيَ حَبَّذَا الْمُعِينْ</item>
+        <item>سبُحْاَنَ رَبِّكَ رَبِّ الْعِزَّةِ وَسَلاَمٌ عَلَى الْمُرْسَلِينَ وَالْحَمْدُ للهِ رَبِّ الْعَالَمِينَ</item>
+    </string-array>
+    <string-array name="Jaawartou_Fr">
+        <item>"AU NOM DE DIEU, CLEMENT ET MISERICORDIEUX Je suis débarrassé à jamais de Satan le maudit et de tous les actes délictueux. Grâce aux bienfaits de la "basmalah" (la formule bismilahi rahamani rahimi i.e au Nom de Dieu le miséricordieux le tout miséricordieux)je suis attaché au prophète et à tous les élus de Dieu et grâce aux avantages et privilèges que procure la formule "la hawla wala quwwata ila billaahi". Il n y a de force et de puissance qu’en Dieu."</item>
+        <item>"Certes je réside désormais avec DIEU, de par Son Saint Livre; et ce, jusqu'a mon entrée dans Son Paradis..."</item>
+        <item>"Grâce au Coran, je réside avec mon SEIGNEUR, l'Incomparable AUXILIAIRE; j'ai acquis la parfaite maîtrise de mon âme et chassé Satan, le réprouvé"</item>
+        <item>"De ce bas-monde, je me contente de tirer uniquement mon viatique pour le Paradis; j'ai dompté ma passion et purifié entièrement mon cœur"</item>
+        <item>"Dans l'Au-delà, les Vertueux seront mes Compagnons et il me sera éternellement donné les moyens de les honorer"</item>
+        <item>"Le Coran demeurera certes mon Compagnon jusqu'aux Trois Paradis comme il a chassé loin de moi Satan, le Lapidé"</item>
+        <item>"Mon Bouclier contre le Maudit et les impies est le fait que je réside avec le CREATEUR des Mondes"</item>
+        <item>"Le NOVATEUR, de par Son Livre, m'honore et me préserve de toute source de Blâme"</item>
+        <item>"Ainsi ne connaîtrais-je, jusqu'à mon entrée au Paradis, que Joie procurée par le SUBLIME, le BIENFAITEUR"</item>
+        <item>"Ne serais-je, non plus, objet d'aucune sorte de Remontrance ou Menace; et mon existence ne sera, jusqu'au paradis, que Permanentes Réjouissances"</item>
+        <item>"DIEU dissimule en ma faveur le Mystère Bien Gardé (Sirru-l-Mas'un), par Amour et par la formule « Laa ilaaha illa Laah » (Il n'est d'autre divinité en dehors de DIEU)"</item>
+        <item>"DIEU m'a dirigé [sur Son Sentier] - certes IL Demeure le NOVATEUR! IL m'a guidé vers LUI à travers toutes sortes de Merveilles"</item>
+        <item>"Le CREATEUR, CELUI-LA dont nul n'a vu le pair, m'a affranchi de tout ce qui n'est pas LUI et m'a mené [sur la Voie Droite]"</item>
+        <item>"Certes le Livre de mon SEIGNEUR est en ma faveur et nul doute que je demeurerai à jamais à son service car c'est grâce à lui que je réside avec DIEU"</item>
+        <item>"Ma stricte abstinence de toute source de corruption constitue mon Rempart contre les impuretés et les méfaits"</item>
+        <item>"Certes DIEU m'a honoré de par Son Livre Edificateur et de par ce qu'IL a Daigné Choisir en moi; et vers moi IL a Drainé les foules"</item>
+        <item>"Mon Bouclier contre le Maudit et les impies est le fait que je réside avec le CREATEUR des Mondes"</item>
+        <item>"Les dons du DETENTEUR de la Majesté et de la Noblesse ont à jamais pérennisé mes nobles ambitions"</item>
+        <item>"DIEU m'a accordé ce qui, jamais, ne fut et ne sera jamais plus accordé à nulle créature"</item>
+        <item>"En aucun instant je ne doute de ma qualité de résident avec le NOVATEUR - que Sa Création est Admirable!"</item>
+        <item>"Les Faveurs que j'ai obtenues de DIEU n'existaient nulle part dans l'univers; et c'est en cela que consiste mon succès"</item>
+        <item>"DIEU m'a LUI-MEME Dirigé vers DIEU, sans illusion aucune, et a agréé toute mon existence"</item>
+        <item>"Mes ennemis et les envieux ont tous été déçus dans leur attente tandis que j'ai impétré le Prix de mon Service sans aucune sorte de faillite"</item>
+        <item>"Grâce au Coran, DIEU, le SUBSISTANT, m'a préservé contre toute ruine et ma Transaction auprès de LUI ne connaîtra jamais de mévente"</item>
+        <item>"De par Son Infinie Grâce et par la formule « Laa ilaaha illa Laah », DIEU ne permettra jamais que devient loin de ma personne"</item>
+        <item>"DIEU, CELUI-LA Qui reste en ma faveur, m'a rétribué du Salaire [de mon Service pour le Prophète] et, par ma personne, a purifié notre époque"</item>
+        <item>"Je résiderai éternellement avec mon SEIGNEUR grâce au [Saint Livre écrit] en langue arabe et excellente reste ma Proximité avec LUI"</item>
+        <item>"DIEU, CELUI-LA Qui a illuminé mon, m'a confié l'Islam en dépôt au cours de mon Exil dans les îles"</item>
+        <item>"IL n'a cessé d'inonder mon être de la Lumière de la langue arabe et celle du Saint Livre tout le temps de mon Service pour le Prophète parmi les gens du Livre (les colons)"</item>
+        <item>"La Révélation de la Vérité Intangible (le Coran) faite à Muhammad, l'Intercesseur Agréé, me suffit comme Bouclier contre les dommages et les canons"</item>
+        <item>"DIEU m'a Dirigé et a chassé hors de mon existence Satan le Réprouvé; quel Excellent AUXILIAIRE!"</item>
+        <item>"Louange à Dieu, Dieu de la puissance, accorde Ton Salut aux envoyés! Gloire à Dieu, Seigneur des mondes."</item>
+    </string-array>
+    <string-array name="Jaawartou_Tr">
+        <item>"Bismil Lahir Rahmanir Rahimi, Fâraqtu Iblîssa wa jamî 'al mafâssidi  wa bismil lahir rahmanir rahimi, laâzamtou rassulal lâhi sallal lâhu 'alayhi wassallama, wa jamî'al massâlihi walâ hawla walâ qouwata illâ billahil 'alliyil azîmi"</item>
+        <item>"Jaawartul lâha bikitabihî ila dukhûliya jannatahû"</item>
+        <item>"Jâwartu bil   furqâni  rabbiyal   mou ‘ine Malaktu  nafsiya  wa  zahzahtu  la’ine"</item>
+        <item>"Akhaztu min dunyâhu zâdî lil-jinâne Wan-qâda  lil  hawâ   walî safal  janâne"</item>
+        <item>"Wâ  lâniyal  abrâru  fî  ukhrâyâ Wan qâda lî bilan tihane qirâyâ"</item>
+        <item>"Râfaqanî  ilal  jinâni   jîmu Wali siwâya  zuhzihar - rajîmu"</item>
+        <item>"Tursî ‘anil la’îni wal fujjâri  Kawnu badî’il ‘âlamîna jâri"</item>
+        <item>"Akramanil  badî ‘u  bil  kitâbi Wa  Sânanî  ‘an  jâlibil ‘itâbi"</item>
+        <item>"Lame yanhunî ilâ dukhûlil jannah Ghayru buchârâtil ‘alî zil minnah"</item>
+        <item>"Lam yanhunî zajrune walâ wa ‘îdu Wa  ‘umurî  ilal jinâni ‘îdu"</item>
+        <item>"Akhfâ liyassiral  masunal lâhu  Hubbane  wa  lâ ilâha illal lâhu "</item>
+        <item>"Hadâniyal-lâhu wa innahûl-badîh Wa qâdanî lahû bi anwahil  badih "</item>
+        <item>"Barra  anil  khâliqou   mine  siwâhu  Wa qâdanî man lâ yurâ charwâhu "</item>
+        <item>"Kitâbu rabbî kâna lî wa kuntu  Lahû wa  lillâhi  bihî sakantu"</item>
+        <item>"Tursî ‘anil akdâri wal-mafâsidi Salâmatî min jâlibin lifâsidi"</item>
+        <item>"Akramanil  lâhu  bizikrihî  wamâ Likh târahû wa liya qâdal aqwamâ"</item>
+        <item>"Bâhâ biya-lâhul-kirâmâl-ghurrâ Wa  bi  baqâ iya nabiyya  sarrâ"</item>
+        <item>"Hibâtu  zil  jalâli  wal-ikrâmi Li khalladat muraghabal - kirâmi "</item>
+        <item>Ilayya qâdal - Lâhu mâ lam yakuni Walâ  yakûnu  abadane lil  mumkini</item>
+        <item>"Lastu achukku abadane fi-kawnî  Jâral-badî’i  hajabane  lil-kawni"</item>
+        <item>"Inna-L  lazî  minal  ilâhi  huztu Ghâba ‘anil - kawni wa fîhi fuztu"</item>
+        <item>"Dallaniyal  Lâhu  ‘alal-lâhi   bilâ  Tagharrurine wa ‘umurî taqabbalâ"</item>
+        <item>"Khâbatt qulâtiya ma’al husadi Mus çamanî  huztou bilâ kasâdi"</item>
+        <item>"Waqâniyal baqî bihî çubûrâ  Tijâratî  ladayhi  lane  tabûrâ"</item>
+        <item>"Lame yan ‘unî mâ bâ ‘a annil-Lâhu Fadlane  wa lâ  ilâha  illal  Lâhu"</item>
+        <item>"Yaqûdu lî bilan tihâ-în çamanî Mane  kana  li wa  lîya  saffâ  zamanî"</item>
+        <item>"Jâwartu  Rabbî bi lissâni ‘arabî Bi lâ nihâyatine wa tâbatt qourabî"</item>
+        <item>"Naza’a lil- islâma  ‘inda ghurbatî Ladal jazâ’irî  munîru  turbatî"</item>
+        <item>"Nuzi’a lî nûrul lisâni wal kitâb Azmâna  khidmatî ladâ  ahlil  kitâb"</item>
+        <item>"Tazyîlu ma çabbata lil-muchaffa’I Aghnâ yamîni ‘ane azane  wa midfa’i"</item>
+        <item>"Hadâniyal  lâhu wa  zahzahal la’îne Ilâ siwâ ‘umriya  habbazal  mu’îne"</item>
+        <item>"Subhâna Rabbika Rabbil 'izzati 'ammâ yasifûne wa salâmune 'alal mursalîne wal hamdu lil Lâhi Rabbil 'âlamîne"</item>
+    </string-array>
+
+</resources>
